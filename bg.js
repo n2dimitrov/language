@@ -122,7 +122,7 @@ moot.language = {
   italics: 'наклонен шрифт',
   learn: 'Разбери още...',
   settings: 'Настройки',
-  all: 'Всички Статии', // or alternatively: All
+  all: 'Всички публикации', // or alternatively: All
 
   anon_1: 'анонимен',  // singular
   anon: 'анонимни',  // plural
@@ -161,7 +161,7 @@ moot.language = {
   later: 'По-късно...',
   less: 'по-малко',
   like: 'Харесай',
-  likepost: 'Харесай тази статия',
+  likepost: 'Харесай тази публикация',
   loading: 'Зареждане...',
   login: 'Влез',
   login1: 'Първо влез',
@@ -178,11 +178,11 @@ moot.language = {
   notexist: 'не съществува.',
   ok: 'ОК',
   online: 'На линия',
-  post: 'Статия',
+  post: 'Публикувай',
   preview: 'Преглед',
   progress: ['зареждане...', 'още работя...', 'и работя...', 'предавам се...'],
   reconnect: 'Свързване отново...',
-  removepost: 'Премахни тази статия',
+  removepost: 'Премахни тази публикация',
   reply: 'Отговори...',
   replybtn: 'Отговор',
   save: 'Запази промените',
